@@ -28,6 +28,10 @@ status:
     reason: Ready
     status: "True"
     type: ExposeServiceReady
+  - message: Input data complete
+    reason: Ready
+    status: "True"
+    type: InputReady
   - message: RoleBinding created
     reason: Ready
     status: "True"
